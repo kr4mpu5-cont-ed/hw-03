@@ -1,0 +1,10 @@
+body {
+    margin: 50px;
+    background-color: #efefef;
+}
+.boxBackgroundColor {
+    background-color: #fff;;
+}
+.dashed {
+    border-style: dashed !important;
+}
