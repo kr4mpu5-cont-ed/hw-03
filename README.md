@@ -4,4 +4,4 @@ The purpose of this application is to accept user input in terms of length and c
 
 ![password generator demo](./screenshot.png)
 
-![deployed app](https://kr4mpu5.github.io/hw-03/)
+[deployed app](https://kr4mpu5.github.io/hw-03/)
